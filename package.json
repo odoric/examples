@@ -1,0 +1,10 @@
+{
+  "name": "graph-1",
+  "description": "TypeScript + Jest base sandbox.",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "@types/jest": "^23.0.0"
+  },
+  "dependencies": {},
+  "keywords": []
+}
